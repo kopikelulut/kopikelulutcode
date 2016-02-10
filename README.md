@@ -1,1 +1,2 @@
 # kopikelulutcode
+jQuery EasySlider
